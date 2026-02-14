@@ -1,0 +1,8 @@
+addons:
+- id: test
+  name: test
+  description: ''
+  repo: wictorwilen/agentcore-test
+  author: wictorwilen
+  tags: []
+  min_agentcore_version: 0.1.0
