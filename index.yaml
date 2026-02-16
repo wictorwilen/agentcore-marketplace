@@ -6,3 +6,12 @@ addons:
   author: wictorwilen
   tags: []
   min_agentcore_version: 0.1.0
+- id: ado-helpers
+  name: ADO helpers
+  description: ADO tools
+  repo: wictorwilen/agentcore-ado-helpers
+  author: wictorwilen
+  tags:
+  - automation
+  - reporting
+  min_agentcore_version: 0.1.0
