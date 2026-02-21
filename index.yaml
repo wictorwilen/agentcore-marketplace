@@ -6,4 +6,13 @@ addons:
   author: wictorwilen
   tags: []
   min_agentcore_version: 0.1.0
-
+- id: stock-sync
+  name: Stock Sync
+  description: Tool for synchronizing stock data into the AgentCore brain
+  repo: wictorwilen/agentcore-stock-sync
+  author: wictorwilen
+  tags:
+  - tools
+  - reporting
+  - finance
+  min_agentcore_version: 0.1.0
